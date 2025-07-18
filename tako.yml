@@ -2,8 +2,5 @@ version: 0.1.0
 metadata:
     name: repo-b
 artifacts: []
-dependents:
-    - repo: tako-test/repo-c:main
-      artifacts: []
-      workflows: []
+dependents: []
 workflows: []
